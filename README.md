@@ -1,5 +1,3 @@
-# CodSoft
-
 # CodeSoft Internship Project
 
 Welcome to my CodeSoft internship project repository! This repository contains the code and documentation for the project I am working on during my internship at CodeSoft.
