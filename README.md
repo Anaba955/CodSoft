@@ -4,7 +4,7 @@ Welcome to my CodeSoft internship project repository! This repository contains t
 
 ## Project Description
 
-# TASK 1
+# TASK 1 : NUMBER GAME
 
 1. Generate a random number within a specified range, such as 1 to 100.
 
@@ -23,7 +23,7 @@ You can incorporate additional details as follows:
  
 7. Display the user's score, which can be based on the number of attempts taken or rounds won.
 
-# Task 2
+# Task 2: WORD COUNTER
 
 1. Prompt the user to enter a text or provide a file to count the words.
    
@@ -48,7 +48,7 @@ You can further enhance the project by adding features such as:
 10. Adding a graphical user interface (GUI) for a more user-friendly experience.
 
 
-# TASK 3
+# TASK 3: STUDENT MANAGEMENT SYSTEM
 
 1. Create a Student class to represent individual students. Include attributes such as name, roll
 number, grade, and any other relevant details.
